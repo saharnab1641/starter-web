@@ -16,4 +16,4 @@ Please fork this repository and issue pull requests for review.
 
 ## Copyright
 
-Git.Course.Udemy19
+Git.Course.Udemy19. All Rights Reserved

@@ -13,3 +13,7 @@ Example to show different parts of a git repository
 ## How To Contribute
 
 lorem ipsum
+
+## Copyright
+
+Git.Course.Udemy19

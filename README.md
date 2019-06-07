@@ -12,7 +12,7 @@ Example to show different parts of a git repository
 
 ## How To Contribute
 
-lorem ipsum
+Please fork this repository and issue pull requests for review.
 
 ## Copyright
 
